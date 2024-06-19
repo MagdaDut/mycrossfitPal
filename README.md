@@ -1,2 +1,4 @@
-# mycrossfitPal
-This is an amazing Crossfit tracking app
+# crossfitPal
+Amazing crossfit tracker
+
+1. database
